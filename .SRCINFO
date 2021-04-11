@@ -1,0 +1,22 @@
+pkgbase = bootsplash-theme-manjaro-space-purple
+	pkgdesc = Beautiful Manjaro Bootsplash with space animation
+	pkgver = 1.1
+	pkgrel = 2
+	url = https://github.com/ANDRoid7890/bootsplash-theme-manjaro-space-purple
+	arch = x86_64
+	license = GPL
+	optdepends = bootsplash-systemd: for bootsplash functionality
+	source = bootsplash-packer
+	source = bootsplash-manjaro-space.sh
+	source = bootsplash-manjaro-space-purple.initcpio_install
+	source = logo.gif
+	source = spinner.gif
+	sha256sums = SKIP
+	sha256sums = SKIP
+	sha256sums = SKIP
+	sha256sums = SKIP
+	sha256sums = SKIP
+
+pkgname = bootsplash-theme-manjaro-space-purple
+	pkgdesc = Beautiful Manjaro Bootsplash with space animation
+

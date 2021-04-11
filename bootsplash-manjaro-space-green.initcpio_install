@@ -1,0 +1,11 @@
+build() {
+        # add manjaro space bootsplash
+	add_binary /usr/lib/firmware/bootsplash-themes/manjaro-space-green/bootsplash /usr/lib/firmware/bootsplash-themes/manjaro-space-green/bootsplash
+}
+
+help() {
+	echo "This hook includes the initramfs image."
+}
+
+# vim: set ft=sh:
+#EOF
